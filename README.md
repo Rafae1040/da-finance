@@ -40,3 +40,20 @@ Por fim, o projeto inclui a geração de gráficos que mostram a performance dos
 ## Conclusão:
 
 O projeto oferece uma análise completa e automatizada do fechamento do mercado financeiro do índice Bovespa e da cotação do dólar em relação ao real, com informações úteis para investidores, corretoras, gerentes financeiros e outras pessoas interessadas em acompanhar a performance desses ativos.
+
+No final de todo o processo foi enviado o e-mail para o diretor e constou o seguinte resultado:
+
+Bolsa:
+
+No ano Ibovespa está tendo uma rentabilidade de -5.4%,
+enquanto no mês a rentabilidade é de 0.13%.
+
+No último dia útil, o fechamento do ibovespa foi de -0.24%
+
+Dólar:
+
+No ano o Dólar está tendo uma rentabilidade de -4.44%,
+enquanto no mês a rentabilidade é de 0.69%.
+
+No último dia útil, o fechamento do Dólar foi de 2.91%.
+
