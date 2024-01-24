@@ -29,7 +29,7 @@ Com esses benefícios, este projeto é uma ferramenta essencial para investidore
 
 ## Metodologia:
 
-Para a obtenção dos dados foi a coleta de informações no Yahoo Finance, por meio da biblioteca yfinance do Python. Os dados foram manipulados por meio da biblioteca Pandas, permitindo a seleção e exclusão de informações relevantes, bem como a criação de tabelas com outros timeframes, como o fechamento mensal e anual.
+Para a obtenção dos dados foi feita a coleta de informações no Yahoo Finance, por meio da biblioteca yfinance do Python. Os dados foram manipulados por meio da biblioteca Pandas, permitindo a seleção e exclusão de informações relevantes, bem como a criação de tabelas com outros timeframes, como o fechamento mensal e anual.
 
 O código também inclui a localização do fechamento do dia anterior, bem como o cálculo dos retornos do mês e do ano dos ativos. Essas informações são importantes para investidores, corretoras, gerentes financeiros e qualquer pessoa interessada em monitorar a performance desses ativos.
 
